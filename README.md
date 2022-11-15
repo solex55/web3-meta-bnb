@@ -6,7 +6,7 @@ We provide you access to luxury and affordable houses in the metaverse, get a ch
 
 ## Deployment
 
-This MetaBnB-Web3 was deployed [Here]()
+This MetaBnB-Web3 was deployed [Here](https://web3-meta-bnb.netlify.app/)
 
 ## Design file
 
